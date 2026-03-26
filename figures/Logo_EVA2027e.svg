@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="93.21698mm"
+   height="61.386787mm"
+   viewBox="0 0 93.21698 61.386788"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
+   sodipodi:docname="Logo_EVA2027e.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.5"
+     inkscape:cx="-121"
+     inkscape:cy="-64"
+     inkscape:window-width="1849"
+     inkscape:window-height="1163"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="true">
+    <inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="0.99999998"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f38100;stop-opacity:0;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#f38100;stop-opacity:1;"
+         offset="0.20537041"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4"
+       id="linearGradient5"
+       x1="75.122055"
+       y1="34.414798"
+       x2="176.08775"
+       y2="34.414798"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94612708,0,0,1.0122727,9.5479537,-0.40645283)" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-75.234985,5.7873068)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke-width:0.264583"
+       x="68.575607"
+       y="58.434147"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.264583"
+         x="68.575607"
+         y="58.434147" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';writing-mode:lr-tb;direction:ltr;fill:#002855;fill-opacity:1;stroke-width:0.264583"
+       x="105.01604"
+       y="52.509083"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="fill:#002855;fill-opacity:1;stroke-width:0.264583"
+         x="105.01604"
+         y="52.509083">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:50.7255px;writing-mode:lr-tb;direction:ltr;fill:#002855;fill-opacity:1;stroke-width:0.264195"
+       x="76.309647"
+       y="52.490269"
+       id="text3"
+       transform="scale(1.0014708,0.99853136)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.7255px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';fill:#002855;fill-opacity:1;stroke-width:0.264195"
+         x="76.309647"
+         y="52.490269">E</tspan></text>
+    <rect
+       style="fill:url(#linearGradient5);fill-opacity:1;stroke:#000000;stroke-width:1.57979e-08;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect2-9"
+       width="95.526367"
+       height="6.3878193"
+       x="80.622971"
+       y="31.236795"
+       rx="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.8px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';writing-mode:lr-tb;direction:ltr;fill:#002855;fill-opacity:1;stroke-width:0.264583"
+       x="-164.24585"
+       y="-3.1617274"
+       id="text5"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan5"
+         style="fill:#002855;fill-opacity:1;stroke-width:0.264583"
+         x="-164.24585"
+         y="-3.1617274">V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.40893px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';writing-mode:lr-tb;direction:ltr;fill:#002855;fill-opacity:1;stroke-width:0.231531"
+       x="82.224396"
+       y="15.887631"
+       id="text2"
+       transform="scale(0.97348679,1.0272353)"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="font-size:7.40893px;fill:#002855;fill-opacity:1;stroke-width:0.231531"
+         x="82.224396"
+         y="15.887631">Montréal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.4458px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';writing-mode:lr-tb;direction:ltr;fill:#002855;fill-opacity:1;stroke-width:0.303027"
+       x="143.6754"
+       y="49.126003"
+       id="text6"
+       transform="scale(0.93336403,1.0713933)"><tspan
+         sodipodi:role="line"
+         id="tspan6"
+         style="font-size:13.4458px;fill:#002855;fill-opacity:1;stroke-width:0.303027"
+         x="143.6754"
+         y="49.126003">2027</tspan></text>
+  </g>
+</svg>
