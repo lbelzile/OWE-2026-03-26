@@ -112,11 +112,11 @@
     "text": "Alternative hypotheses\nThe idea underlying our testing procedure is to let the parameters of the block maximum differ, by\n\n\n\\(A_1\\): setting \\(\\mathcal{H}_a: {\\boldsymbol{\\vartheta}}_m = (\\mu_{\\omega m}, \\sigma_{\\omega m}, \\xi)\\) for some scaling \\(\\omega &gt; 0\\), and testing \\(\\mathcal{H}_0: \\omega=1.\\)\n\\(A_2\\): allowing both location and scale to vary \\(\\mathcal{H}_a: {\\boldsymbol{\\vartheta}}_m = (\\mu_m+\\nu, \\phi \\sigma_m, \\xi)\\) and testing \\(\\mathcal{H}_0: \\nu=0, \\phi=1.\\)\n\\(A_3\\): letting all three parameters vary \\(\\mathcal{H}_a: {\\boldsymbol{\\vartheta}}_m = (\\mu_m+\\nu, \\phi \\sigma_m, \\xi + \\zeta)\\) and testing \\(\\mathcal{H}_0:\\nu=0, \\phi=1, \\zeta=0.\\)\n\nWe use likelihood ratio statistics to compare the models \\(\\mathcal{H}_0\\) and \\(\\mathcal{H}_a.\\) The asymptotic distribution of the test is \\(\\chi^2_k\\) with \\(k\\in\\{1, 2, 3\\}.\\)"
   },
   {
-    "objectID": "Block_size-presentation.html#power-study-stup",
-    "href": "Block_size-presentation.html#power-study-stup",
+    "objectID": "Block_size-presentation.html#power-study-setup",
+    "href": "Block_size-presentation.html#power-study-setup",
     "title": "How long should a block be?",
-    "section": "Power study stup",
-    "text": "Power study stup\nWe consider different scenarios to assess the power of tests:\n\nsample sizes \\(n \\in \\{25,50,100\\},\\)\nnumber of replicates \\(m\\in \\{2, 5, 10\\},\\)\nthree alternatives \\(\\mathcal{H}_a.\\)\n\nAll power curves are based on 2000 replications, with tests conducted at level 5%."
+    "section": "Power study setup",
+    "text": "Power study setup\nWe consider different scenarios to assess the power of tests:\n\nsample sizes \\(n \\in \\{25,50,100\\},\\)\nnumber of replicates \\(m\\in \\{2, 5, 10\\},\\)\nthree alternatives \\(\\mathcal{H}_a.\\)\n\nAll power curves are based on 2000 replications, with tests conducted at level 5%."
   },
   {
     "objectID": "Block_size-presentation.html#power-study",

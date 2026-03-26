@@ -360,7 +360,7 @@ We use likelihood ratio statistics to compare the models $\mathcal{H}_0$ and $\m
 
 :::
 
-## Power study stup
+## Power study setup
 
 We consider different scenarios to assess the power of tests:
 
